@@ -1,7 +1,7 @@
-###
+"""
 Resource: 
 https://robertochiosa.medium.com/a-python-guide-to-compress-csv-data-into-parquet-8c797136aa38
-###
+"""
 
 import pandas as pd
 import pyarrow as pa
